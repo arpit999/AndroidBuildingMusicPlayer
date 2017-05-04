@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Company Projects\GTU paper\AndroidBuildingMusicPlayer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fe9884e2dfb2dd79bf06485e5be6e7a9ad647845">
+        <dex dex="D:\Company Projects\GTU paper\AndroidBuildingMusicPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_da2229795ef90c9e70375af5e2e8a286c2d4d388\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Company Projects\GTU paper\AndroidBuildingMusicPlayer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\Company Projects\GTU paper\AndroidBuildingMusicPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_70da618d4ff2086a6791a5b3be6ceb0a17ef0cd1\classes.dex" />
+    </item>
+
+</items>
